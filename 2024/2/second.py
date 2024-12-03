@@ -48,4 +48,4 @@ def main():
     return ans
 
 
-print("Part 1: ", main())
+print("Part 2: ", main())
